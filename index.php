@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title>Php Test</title>
 <style>
 h1 {color:red;}
 </style>
